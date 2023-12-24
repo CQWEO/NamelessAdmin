@@ -22,7 +22,7 @@
 
  Notify({
 		 Description = "Nameless Admin is now discontinued as i have decided to step away from exploiting since i only used it to learn scripting in a more 'fun' way. Thank you all for everything :^)";
-		 Title = "Goodbye!";
+		 Title = "Script By Rechedmcvn";
 		 Duration = 10;
 		 
 });
@@ -60,7 +60,7 @@
  }
  
  -- [[ Version ]] -- 
- currentversion = 1.13
+ currentversion = 1.0
  
  --[[ VARIABLES ]]--
  PlaceId, JobId = game.PlaceId, game.JobId
