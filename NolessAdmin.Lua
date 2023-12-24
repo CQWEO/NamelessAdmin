@@ -22,7 +22,7 @@
 
  Notify({
 		 Description = "Nameless Admin is now discontinued as i have decided to step away from exploiting since i only used it to learn scripting in a more 'fun' way. Thank you all for everything :^)";
-		 Title = "Script By Rechedmcvn";
+		 Title = "Script By NamelessAmdin is rechedmcvn";
 		 Duration = 10;
 		 
 });
@@ -15127,9 +15127,9 @@ end
  TextClickButton.BackgroundColor3 = Color3.fromRGB(4, 4, 4)
  TextClickButton.BackgroundTransparency = 1.000
  TextClickButton.Position = UDim2.new(0.418, 0,0, 0)
- TextClickButton.Size = UDim2.new(0, 2, 0, 33)
+ TextClickButton.Size = UDim2.new(0, 100, 0, 33)
  TextClickButton.Font = Enum.Font.SourceSansBold
- TextClickButton.Text = "you hub" .. currentversion .. ""
+ TextClickButton.Text = "NamelessAdmin v" .. currentversion .. ""
  TextClickButton.TextColor3 = Color3.fromRGB(255, 255, 255)
  TextClickButton.TextSize = 20.000
  TextClickButton.TextWrapped = true
@@ -15147,7 +15147,7 @@ end
 	 textclickbutton:TweenSize(UDim2.new(0, 32, 0, 33), "Out", "Quint",1,true)
 	 textclickbutton:TweenPosition(UDim2.new(0.48909232, 0, 0, 0), "Out", "Quint",1,true)
 	 wait(0.4)
-	 textclickbutton.Text = "you hub"
+	 textclickbutton.Text = "Command"
 	 textclickbutton.Active = true
  gui.draggable(textclickbutton)
  end
